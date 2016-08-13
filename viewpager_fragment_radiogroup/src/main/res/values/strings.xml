@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewPager_Fragment_RadioGroup</string>
+    <string name="guide">指南</string>
+    <string name="hot">热门</string>
+    <string name="mine">我的</string>
+    <string name="category">分类</string>
+</resources>

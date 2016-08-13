@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ViewPager_Update</string>
+    <string name="tips">check</string>
+    <string name="title_two">Update</string>
+    <string name="title_one">Welcome</string>
+</resources>

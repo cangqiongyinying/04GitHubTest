@@ -1,0 +1,1 @@
+include ':app', ':downloadservice_activity', ':httplibrary', ':httptext', ':planegame', /*':handler_homework', ':notification_broadcastreceiver', ':viewpager_update', ':viewpager_fragment_radiogroup',*/ ':gift_spirit'
